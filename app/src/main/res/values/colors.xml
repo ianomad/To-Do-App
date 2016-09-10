@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorAccent">#536DFE</color>
+
+    <color name="emptyLabel">#484848</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="high">#871c2b</color>
+    <color name="medium">#a48a2a</color>
+    <color name="low">#39ab5b</color>
+
+    <color name="details">#b8414141</color>
+    <color name="date">#b8512e2e</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>

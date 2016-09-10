@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My tasks</string>
+    <string name="new_task">Create New Task</string>
+    <string name="empty_items">You have no items yet.</string>
+
+    <string-array name="priorities">
+        <item>LOW</item>
+        <item>HIGH</item>
+        <item>MEDIUM</item>
+    </string-array>
+    <string-array name="statuses">
+        <item>TODO</item>
+        <item>DONE</item>
+    </string-array>
+
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
